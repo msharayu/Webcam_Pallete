@@ -1,13 +1,14 @@
-Welcome to Webcam Palette, your ultimate tool for transforming your webcam into a dynamic palette for painting, drawing, and exploring your creativity in real-time!
+**Welcome to Webcam Palette**
+your ultimate tool for transforming your webcam into a dynamic palette for painting, drawing, and exploring your creativity in real-time!
 
 What is Webcam Palette?
 Webcam Palette is an innovative project that merges the worlds of art and technology, allowing you to paint directly onto your webcam feed with a variety of colors and brush sizes. Whether you're an aspiring artist, a hobbyist, or simply looking for a fun way to express yourself, Webcam Palette is the perfect companion for unleashing your imagination.
 
-Features:
+**Features:**
 🎨 Real-time Painting
 Express yourself instantly with real-time painting directly onto your webcam feed. Watch as your creations come to life before your eyes, making every stroke a part of your masterpiece.
 
-🌈 Color Selection
+**🌈 Color Selection**
 Choose from a vibrant array of colors to suit your mood and style. Simply hover over the color of your choice, and Webcam Palette instantly adapts, giving you endless possibilities for your creations.
 
 🖌️ Brush Customization
